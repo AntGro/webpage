@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/antoinegrosnit/fantasies/quickstart",
+	"sourceRoot": "/Users/antoinegrosnit/fantasies/webpage",
 	"sources": [
 		"ananke/css/main.css"
 	],
