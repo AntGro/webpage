@@ -1,4 +1,4 @@
-baseURL = 'https://AntGro.github.io/'
+baseURL = 'https://antgro.github.io/'
 languageCode = 'en-us'
 title = 'Antoine Grosnit'
 theme = 'ananke'
