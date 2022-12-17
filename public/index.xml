@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antoine Grosnit</title>
-    <link>https://antoine-grosnit.org/</link>
+    <link>https://antgro.github.io/webpage/</link>
     <description>Recent content on Antoine Grosnit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://antoine-grosnit.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://antgro.github.io/webpage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
