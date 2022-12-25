@@ -1,4 +1,31 @@
 baseURL = 'https://antgro.github.io/webpage'
 languageCode = 'en-us'
 title = 'Antoine Grosnit'
-theme = 'ananke'
+theme =  "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+github = "https://github.com/AntGro"
+linkedin = "https://www.linkedin.com/in/antoine-grosnit-087950158/"
+
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "Research Scientist"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 5
+
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/AntGro"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/antoine-grosnit-087950158/"

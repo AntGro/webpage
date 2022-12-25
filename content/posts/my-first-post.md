@@ -1,12 +1,10 @@
 ---
-title: "My First Post"
+title: "NaN"
 date: 2022-12-15T18:38:33+01:00
-draft: false
+featured_image: "/singapour_bay.jpeg"
+draft: true
 ---
 
-## Publications
 
-This is **bold** text, and this is *emphasized* text.
 
-Visit the [Hugo](https://gohugo.io) website -- !
 
