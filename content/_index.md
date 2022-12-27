@@ -1,7 +1,7 @@
 ---
 title: " "
 description: ""
-featured_image: ''
+featured_image: '/singapour_bay.jpeg'
 omit_header_text: true
 
 menu:
